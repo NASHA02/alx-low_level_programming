@@ -1,15 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Return: Ending with a value of 0
+ * main -prints "Programming is like building a multilingual
+ * puzzle, followed by a new line.
+ * Returen:Always 0
  */
+
+
 int main(void)
+
+
 {
-	char Multi[] = "\"Programming is like building a multilingual puzzle\n";
-
-	puts(Multi);
-
-	return (0);
-}
+	puts("\""Programming is like building a multilingual puzzle\n");
+	returen(0);
+}	
